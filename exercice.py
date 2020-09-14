@@ -18,7 +18,7 @@ def to_degrees(angle_rads: float) -> tuple:
     minutes=0
     seconds=0
 
-    return deg=int(angle_rads*(180/math.pi)), minutes=int(((angle_rads*180)%math.pi)*60), seconds=
+    return 
 
 
 def to_celsius(temperature: float) -> float:
